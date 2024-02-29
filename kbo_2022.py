@@ -273,7 +273,6 @@ merged_df["merged_ex_score_away"] = (
 )
 # print(merged_df)
 
-# ### everything i want ###
 selected_columns = [
     "date",
     "home",
